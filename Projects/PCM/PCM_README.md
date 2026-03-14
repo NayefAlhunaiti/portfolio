@@ -263,12 +263,4 @@ Possible future directions:
 • Conversation summarization  
 • Multi‑user analytics  
 • Mobile interface  
-• Voice interaction  
-
----
-
-# License
-
-MIT License
-
-You are free to use, modify, and distribute this project.
+• Voice interaction 
